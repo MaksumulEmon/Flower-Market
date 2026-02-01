@@ -164,6 +164,16 @@ nav {
     margin-top: 100px;
 }
 
+.flower-lover>div>img{
+    position: relative;
+}
+.trust-badge{
+    width: 40%;
+    position: absolute;
+    top: 600%;
+    left: 30%;
+}
+
 .flower-lover h1 {
     font-size: 3.125rem;
     font-weight: 700;
