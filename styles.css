@@ -80,9 +80,10 @@ nav {
 }
 
 .hero-flower {
-    margin-top: 115px;
+    margin-top: 50px;
     display: flex;
 }
+   
 
 .hero-flower-text {
     max-width: 1140px;
@@ -113,6 +114,7 @@ nav {
     font-size: 3.125rem;
     font-weight: 700;
     text-align: center;
+    margin-top: 60px;
 }
 
 .plants p {
@@ -136,6 +138,9 @@ nav {
     align-items: center;
     text-align: center;
     margin: 20px;
+}
+.flower-section img{
+    width: 100%;
 }
 
 .flower-name {
