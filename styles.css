@@ -164,14 +164,16 @@ nav {
     margin-top: 100px;
 }
 
-.flower-lover>div>img{
+.flower-lover>div{
     position: relative;
+
 }
 .trust-badge{
-    width: 40%;
+   
+    width: 50%;
     position: absolute;
-    top: 600%;
-    left: 30%;
+    top: 60%;
+    left: 63%;
 }
 
 .flower-lover h1 {
