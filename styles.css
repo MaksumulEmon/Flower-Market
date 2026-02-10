@@ -164,17 +164,11 @@ nav {
     margin-top: 100px;
 }
 
-.flower-trust{
+.flower-trust {
     position: relative;
 
 }
 
-.trust-badge{
-    width: 50%;
-    position: absolute;
-    top: 60%;
-    left: 63%;
-}
 
 
 .flower-lover h1 {
@@ -192,6 +186,17 @@ nav {
     margin-top: 16px;
     max-width: 540px;
 
+}
+
+
+/* Least Deal section */
+.leastDeal {
+    align-items: center;
+    text-align: center;
+}
+
+.leastDeal h1 {
+    font-size: 5;
 }
 
 /*----Responsive Media Query----------*/
@@ -262,6 +267,32 @@ nav {
     .flower-section img {
         width: 100%;
     }
+
+    /* Flower Planted Lover */
+    .flower-lover {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .flowerrr {
+        width: 100%;
+    }
+
+    .flower-lover h1 {
+        font-size: 1.5rem;
+        max-width: 270px;
+
+
+    }
+
+    .flower-lover p {
+        font-size: 0,875rem;
+        color: rgba(0, 0, 0, 0.5);
+        margin-top: 16px;
+        max-width: 540px;
+
+    }
+
 
 
 }
